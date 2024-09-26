@@ -1,0 +1,12 @@
+{"name":"Ritu Bala","salary":"50000"}
+{"name":"Ritu Bala","salary":"50000"}
+{"id":"100","name":"Ritu Singh","designation":"Teacher","salary":"50000"}
+{"name":"Ritu Bala","id":"100","designation":"Teacher","salary":"50000"}
+{"name":"Ritu Bala","id":"100","designation":"Teacher","salary":"50000"}
+{"name":"Ritu Bala","id":"100","designation":"Teacher","salary":"50000"}
+{"name":"Raman","id":"200","designation":"Teacher","salary":"50000"}
+{"name":"Raman","id":"200","designation":"Teacher","salary":"50000"}
+{"name":"Kiran","id":"200","designation":"Teacher","salary":"50000"}
+{"name":"Mohit","id":"200","designation":"Teacher","salary":"50000"}
+{"name":"Rohit","id":"200","designation":"Teacher","salary":"50000"}
+{"name":"Ritu Singh","id":"300","designation":"Teacher","salary":"50025"}
